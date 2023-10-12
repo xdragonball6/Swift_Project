@@ -1,0 +1,6 @@
+framework module Pods_season4_mainproject {
+  umbrella header "Pods-season4_mainproject-umbrella.h"
+
+  export *
+  module * { export * }
+}

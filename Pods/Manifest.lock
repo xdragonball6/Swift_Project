@@ -1,0 +1,20 @@
+PODS:
+  - Cosmos (23.0.0)
+  - JWTDecode (3.1.0)
+
+DEPENDENCIES:
+  - Cosmos (~> 23.0)
+  - JWTDecode (~> 3.1)
+
+SPEC REPOS:
+  trunk:
+    - Cosmos
+    - JWTDecode
+
+SPEC CHECKSUMS:
+  Cosmos: b5c6a9a637e28a061b54c8f8b1d8529d7d4db73f
+  JWTDecode: 3eaab1e06b6f4dcbdd6716aff09ba4c2104ca8b7
+
+PODFILE CHECKSUM: 9922313fddf204f9fe582ceeb257f9ef1cc228a6
+
+COCOAPODS: 1.12.1
