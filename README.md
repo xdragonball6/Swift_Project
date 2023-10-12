@@ -7,24 +7,18 @@ Swift의 UIKit을 이용한 App
 프로젝트 기간 : 2023-09-20 ~ 2023-09-27
 <br/>
 <img src = https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/App%20Mockup.jpg> </img>
----
-
-### 연관 Github 이동하기
-<a href= "https://github.com/Oh-Kang94/Season4_Main-project-Server">
-  <img src="https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/SwaggerUI.png" alt="image" ,height="50%", width="50%"><br/>             
-  서버 Github으로 이동하기 
-</a>         
+---    
 
 ---
 ### 관련 PDF 설명
-<a href = "https://drive.google.com/file/d/1pv2cBaMVXKGICXMkiTNPDpb8DJ1vkRu9/view?usp=share_link" title="PDF로 이동">
-    <img src= "https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/main/readme/images/ppt.png"  alt="image" ,height="50%", width="50%">
+<a href = "https://drive.google.com/file/d/12gbMvbniH1i5C9AEJk054R4JJe6R1vEj/view?usp=sharing" title="PDF로 이동">
+    <img src= "https://github.com/xdragonball6/EveryThing/raw/main/Swift Project PDF Image.png"  alt="image" ,height="50%", width="50%">
 </a> 
 
 ---
 ### 시연 영상
-<a href = "https://drive.google.com/file/d/103j-jACxvyxav3VZZQgOxRM-zBV829pW/view?usp=share_link">
-  <img src = "https://github.com/Oh-Kang94/Season4_Main-Project-App/blob/feature/Readme/readme/images/Splash%20Screen.jpg" alt="image" ,height="50%", width="50%">
+<a href = "https://drive.google.com/file/d/1txCzJm-mS-Lu9PnVw4GOCl2tF0xlSqXC/view?usp=sharing">
+  <img src = "https://github.com/xdragonball6/EveryThing/raw/main/Swift project image.png" alt="image" ,height="50%", width="50%">
 </a>
 
 ---
